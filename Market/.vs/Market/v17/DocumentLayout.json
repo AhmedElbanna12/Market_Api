@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\projects\\Backend\\Market\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC98837D-C27E-4492-AB43-FE4F114CCDC8}|Market\\Market.csproj|e:\\projects\\backend\\market\\market\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC98837D-C27E-4492-AB43-FE4F114CCDC8}|Market\\Market.csproj|solutionrelative:market\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC98837D-C27E-4492-AB43-FE4F114CCDC8}|Market\\Market.csproj|e:\\projects\\backend\\market\\market\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC98837D-C27E-4492-AB43-FE4F114CCDC8}|Market\\Market.csproj|solutionrelative:market\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC98837D-C27E-4492-AB43-FE4F114CCDC8}|Market\\Market.csproj|e:\\projects\\backend\\market\\market\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC98837D-C27E-4492-AB43-FE4F114CCDC8}|Market\\Market.csproj|solutionrelative:market\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\projects\\Backend\\Market\\Market\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Market\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\projects\\Backend\\Market\\Market\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Market\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T12:11:39.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\projects\\Backend\\Market\\Market\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Market\\Models\\User.cs",
+              "ToolTip": "E:\\projects\\Backend\\Market\\Market\\Models\\User.cs",
+              "RelativeToolTip": "Market\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T11:16:36.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\projects\\Backend\\Market\\Market\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Market\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\projects\\Backend\\Market\\Market\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Market\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAASwBUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T11:39:59.679Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
